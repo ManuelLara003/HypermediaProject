@@ -1,0 +1,66 @@
+body{
+	padding: 0px 0px 0px 0px;
+	margin: 4px 10px 0px 4px;
+   	font-size: 13px;
+}
+
+.header{
+   	background-color: #1D5061;
+   	width: 300px;
+	height: 1000px;
+	font-size: 15px;
+	color: white;
+	display: block;
+	padding: 2px 20px 20px 20px;
+}
+
+.bio {
+	margin: -900px 50px 0px 370px;	
+}
+
+.header > img{
+	width: 200px;
+	height: 200px;
+	margin: 15px 10px 20px 50px;
+}
+
+.line{
+  	background-color: #1D5061;
+  	width: 500px;
+	height: 3px;
+	margin: 30px 380px;
+}
+
+.info {
+	margin: 40px -300px 0px 370px;
+  
+}
+
+h2{	
+	font-family: Cambria;
+	font-weight: bold;
+	width: 320px;
+  	
+}
+
+dt{
+	font-family: Cambria;
+  	font-weight: bold;
+  	font-size: 16px;
+  	height:25px;
+}
+
+p{
+	font-family: Tahoma, Arial, sans-serif;
+  	font-size:15;
+}
+
+li{
+	font-family: Tahoma, Arial, sans-serif;
+  	width: 320px;
+  	margin: 10px;
+}
+
+ul{  
+	list-style-type: square;
+}
